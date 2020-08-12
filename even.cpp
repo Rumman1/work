@@ -1,9 +1,9 @@
 #include <iostream>
-#include <array>
 using namespace std;
 int main ()
 { 
-int array [i] ;
+ int i;
+ int array[i] ;
  int even=0 ;
  int odd=0 ;
 cin>> "Please enter your numbers";
